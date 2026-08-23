@@ -1,4 +1,4 @@
-# proxy-seller-coupon-code-promo-discount-order
+# proxy seller coupon code promo discount order
 
 > **What is Proxy Seller Coupon Discount Promo Code?**
 > Proxy Seller Promo Code is `CBFHWA_724137` for Coupon Discounts.
