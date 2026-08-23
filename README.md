@@ -1,5 +1,7 @@
 # proxy seller coupon code promo discount order
 
+## PROXY SELLER COUPON CODE
+
 > **What is Proxy Seller Coupon Discount Promo Code?**
 > Proxy Seller Promo Code is `CBFHWA_724137` for Coupon Discounts. <img width="2000" height="2000" alt="Proxy Seller Coupon Code For First Order Promo Discount 2026" src="https://github.com/user-attachments/assets/91b421e8-f3e1-4f5a-bcfc-333aefb34c40" />
 
@@ -85,6 +87,7 @@ A field accepting the code without an error message is **not** proof the discoun
 | Mobile           | Cellular carrier networks              | Higher                      | Multi-account platform management                 |
 
 ---
+<img width="1376" height="768" alt="Woman_in_server_room_wearing_202608191510" src="https://github.com/user-attachments/assets/157ff878-5460-4db8-9dbf-83ed90141e90" />
 
 ## 7. Matching Proxy Type to Task
 
@@ -108,6 +111,7 @@ A discount applied to a proxy type that doesn't suit the target site doesn't fix
 | Sizing for measured, current concurrency        | Efficient spend, easier to scale from real data          |
 
 A reasonable starting point: base quantity on current concurrent connections, plus a modest buffer for failed requests, rather than an anticipated future need.
+<img width="1376" height="768" alt="Hacker_girl_in_server_room_202608191509" src="https://github.com/user-attachments/assets/4c8f19dc-5b68-474e-b573-81f2ca6e17ad" />
 
 ---
 
@@ -159,6 +163,7 @@ A lower invoice price paired with a lower success rate can end up more expensive
 ---
 
 ## 13. Pre-Checkout Decision Guide
+<img width="1376" height="768" alt="Girl_wearing_cat_headphones_in_202608191509" src="https://github.com/user-attachments/assets/20d253b5-8968-44b1-a7e6-527c638bd18b" />
 
 | Question                                             | If Yes                | If No           |
 |------------------------------------------------------------|----------------------------|----------------------|
@@ -193,6 +198,8 @@ A lower invoice price paired with a lower success rate can end up more expensive
 ---
 
 ## 16. Rotation Modes
+<img width="1376" height="768" alt="Girl_wearing_cat_headphones_202608191509" src="https://github.com/user-attachments/assets/cf5f7262-102c-439b-891b-f8eada9d9479" />
+
 
 | Mode                    | Address Behavior                        | Suited For                                     |
 |-------------------------------|----------------------------------------------|--------------------------------------------------------|
@@ -201,7 +208,8 @@ A lower invoice price paired with a lower success rate can end up more expensive
 
 ---
 
-## Final Note
+## PROXY-SELLER COUPON CODE PROMO: Final Note
+<img width="1376" height="768" alt="Woman_wearing_hoodie_in_serverroom_202608191510" src="https://github.com/user-attachments/assets/1c54eddf-2f8e-4103-84d1-ed90a00e1d07" />
 
 Applying the code takes a few seconds and never hurts. But the bigger factors in whether a proxy purchase actually works are set earlier in the process: the right proxy type for the target, a quantity based on real usage, and a billing term that matches the project's actual length. Get those right, then apply `CBFHWA_724137` at checkout and confirm the total dropped before paying.
 
